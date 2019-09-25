@@ -1,0 +1,55 @@
+.aside{
+    background: #1F1F1F;
+    color: white;
+    text-align: center;
+}
+
+.aside-name{
+    margin: 20px;
+    font-size: 40px;
+}
+
+.aside-small{
+    font-size: 20px;
+}
+
+.aside-img{
+    width: 200px;
+    margin-top: 20px;
+}
+
+.aside-ofaa{
+    margin-top: 20%;
+}
+
+.aside-hr{
+    border: 2px solid white;
+}
+
+.aside-list{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.aside-list li{
+    margin: 20px auto;
+}
+
+#conocimientos{
+    text-align: center;
+}
+
+#perfilProfesional .info{
+    background-color: #dfdfdf;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+hr{
+    border: 2px solid #1F1F1F;
+    border-radius: 30px;
+}
+
+section{
+    margin-top: 20px;
+}
